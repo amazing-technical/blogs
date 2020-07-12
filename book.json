@@ -1,0 +1,20 @@
+{
+  "root": "./books",
+  "title": "Amazing Techical",
+  "author": "AmazingTechnical",
+  "plugins": [
+    "git-author",
+    "chapter-fold"
+  ],
+  "pluginsConfig": {
+    "git-author": {
+      "position": "top",
+      "modifyTpl": "Last modified by {user} {timeStamp}",
+      "createTpl": false,
+      "timeStampFormat": "YYYY-MM-DD"
+    }
+  },
+  "styles": {
+    "website": "./styles/website.css"
+  }
+}

@@ -1,0 +1,8 @@
+.git-author-container.git-author-top {
+  font-size: 10px;
+}
+
+.book-summary ul.summary li a:hover {
+  text-decoration: none !important;
+  color: #008cff;
+}
