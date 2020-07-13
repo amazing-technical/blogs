@@ -1,0 +1,32 @@
+{
+  "name": "amazing-techicial-blobs",
+  "version": "1.0.0",
+  "description": "Recored amazing technical",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-git-author": "^1.1.2",
+    "gitbook-plugin-isummary": "^1.0.4",
+    "gitbook-plugin-summary": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install:plugins": "gitbook install",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amazing-technical/blogs.git"
+  },
+  "keywords": [
+    "blob"
+  ],
+  "author": "amazing-blobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amazing-technical/blogs/issues"
+  },
+  "homepage": "https://github.com/amazing-technical/blogs#readme"
+}
