@@ -4,7 +4,9 @@
   "author": "AmazingTechnical",
   "plugins": [
     "git-author",
-    "chapter-fold"
+    "chapter-fold",
+    "page-treeview",
+    "accordion"
   ],
   "pluginsConfig": {
     "git-author": {
@@ -12,6 +14,10 @@
       "modifyTpl": "Last modified by {user} {timeStamp}",
       "createTpl": false,
       "timeStampFormat": "YYYY-MM-DD"
+    },
+    "page-treeview": {
+      "minHeaderCount": "1",
+      "minHeaderDeep": "1"
     }
   },
   "styles": {
