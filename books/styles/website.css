@@ -7,6 +7,14 @@
   color: #008cff;
 }
 
-.gitbook-link {
-  display: none !important;
+.treeview__container {
+  margin-bottom: 0px;
+}
+
+.book-summary ul.summary li a.gitbook-link{
+  display: none;
+}
+
+.treeview__container-title {
+  display: none;
 }

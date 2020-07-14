@@ -28,7 +28,7 @@
 
 ### 3. 发布文章
 
-- 将写好的文章 Push 到 Master 或者 自己的分支上
+- 将写好的文章 Push 到自己的分支上
 
 - 创建一个 Pull Request 把文章合并到 Public 分支上
 

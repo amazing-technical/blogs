@@ -5,9 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-accordion": "^1.1.3",
     "gitbook-plugin-chapter-fold": "^0.0.4",
     "gitbook-plugin-git-author": "^1.1.2",
+    "gitbook-plugin-hide-element": "0.0.4",
     "gitbook-plugin-isummary": "^1.0.4",
+    "gitbook-plugin-page-treeview": "^3.0.1",
     "gitbook-plugin-summary": "^1.0.0"
   },
   "devDependencies": {},
